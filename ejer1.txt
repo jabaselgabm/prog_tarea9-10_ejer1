@@ -1,5 +1,5 @@
 Primera línea con palabras para probar el ejercicio 1.
-Segunda línea con palabras para transformar el fichero.
+Segunda línea con palabras para transformar el FICHERO.
 Puedes hacer tus pruebas con la palabra para.
 O también con otras palabras como transformar.
 Incluso con palabras más cortas como el o con.
